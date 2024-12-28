@@ -1,4 +1,4 @@
-def multiplier(n):
+def  multiplier(n):
     """
     Creates a specialized multiplication function using closures.
     
